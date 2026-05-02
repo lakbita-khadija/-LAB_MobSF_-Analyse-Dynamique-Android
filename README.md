@@ -25,6 +25,7 @@ emulator.exe -avd Pixel_5 -writable-system -no-snapshot
 adb root
 adb remount
 ```
+<img width="1411" height="988" alt="image" src="https://github.com/user-attachments/assets/dd22a1c9-98c0-4e79-be41-837ecf4f6cc7" />
 <img width="892" height="162" alt="image" src="https://github.com/user-attachments/assets/8e957487-96b6-45c1-a481-a3a58b866be5" />
 
 ### Lancement de MobSF
